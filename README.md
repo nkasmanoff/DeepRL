@@ -11,3 +11,18 @@ So instead, I have decided to take these homework assignments and lessons, and c
 
 Further documentation provided in the corresponding sub-directories, and references will be provided accordingly. 
 
+
+
+
+I want to also add I've drawn a lot of these algorithm implementations from a few different sources, mainly 
+
+https://github.com/nikhilbarhate99/PPO-PyTorch
+
+https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+and 
+
+https://www.youtube.com/channel/UC58v9cLitc8VaCjrcKyAbrw
+
+This repository is mostly about getting those methods to work on different environments and modifying small parts of those scripts for improved logging, performance, or understanding. 
+
